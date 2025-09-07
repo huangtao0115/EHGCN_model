@@ -1,0 +1,17 @@
+Dataset size: 502
+Valid samples: 502
+Error samples: 0
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        abbr       0.78      0.88      0.82         8
+        desc       0.78      0.98      0.87       110
+        enty       0.69      0.72      0.70       113
+         hum       0.99      0.64      0.78       109
+         loc       0.97      0.83      0.90        77
+         num       0.85      1.00      0.92        85
+
+    accuracy                           0.83       502
+   macro avg       0.84      0.84      0.83       502
+weighted avg       0.85      0.83      0.82       502

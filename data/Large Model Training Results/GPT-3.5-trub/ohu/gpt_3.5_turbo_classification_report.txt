@@ -1,0 +1,142 @@
+Dataset size: 4054
+Valid samples: 4050
+Error samples: 4
+
+Classification Report:
+                                                     precision    recall  f1-score   support
+
+                                            anatomy       0.00      0.00      0.00         0
+                                         anesthesia       0.00      0.00      0.00         0
+                           anesthetic complications       0.00      0.00      0.00         0
+                                    animal diseases       0.03      0.09      0.05        11
+                              anti-bacterial agents       0.00      0.00      0.00         0
+                   bacterial infections and mycoses       0.73      0.53      0.61       119
+                               biochemical pathways       0.00      0.00      0.00         0
+                biochemical pathways and mechanisms       0.00      0.00      0.00         0
+                              biochemical phenomena       0.00      0.00      0.00         0
+                              biochemical processes       0.00      0.00      0.00         0
+                               biochemical research       0.00      0.00      0.00         0
+                            cardiovascular diseases       0.71      0.92      0.80       641
+                                 cellular processes       0.00      0.00      0.00         0
+                                cellular senescence       0.00      0.00      0.00         0
+                                clinical toxicology       0.00      0.00      0.00         0
+                             critical care diseases       0.00      0.00      0.00         0
+                                    dental diseases       0.00      0.00      0.00         0
+                                dental implantation       0.00      0.00      0.00         0
+                     diagnostic and screening tests       0.00      0.00      0.00         0
+                                 diagnostic imaging       0.00      0.00      0.00         0
+                               diagnostic radiology       0.00      0.00      0.00         0
+                          digestive system diseases       0.69      0.58      0.63       194
+                  disorders of environmental origin       0.56      0.12      0.20       302
+                                     drug disorders       0.00      0.00      0.00         0
+                                  drug interactions       0.00      0.00      0.00         0
+                                     drug reactions       0.00      0.00      0.00         0
+                                       drug therapy       0.00      0.00      0.00         0
+                                      drug toxicity       0.00      0.00      0.00         0
+                                    drug treatments       0.00      0.00      0.00         0
+                              drug-induced diseases       0.00      0.00      0.00         0
+                                       ear diseases       0.00      0.00      0.00         0
+                                 emergency medicine       0.00      0.00      0.00         0
+                                 endocrine diseases       0.23      0.68      0.34        47
+                             environmental diseases       0.00      0.00      0.00         0
+                             epidemiologic diseases       0.00      0.00      0.00         0
+                                     ethical issues       0.00      0.00      0.00         0
+                                 ethical principles       0.00      0.00      0.00         0
+                                       eye diseases       0.77      0.68      0.72        69
+female genital diseases and pregnancy complications       0.61      0.62      0.61       107
+                        forensic and legal medicine       0.00      0.00      0.00         0
+                                 forensic pathology       0.00      0.00      0.00         0
+                      forensic psychiatric hospital       0.00      0.00      0.00         0
+                          gastrointestinal diseases       0.00      0.00      0.00         0
+                                   general practice       0.00      0.00      0.00         0
+                    genetic and hereditary diseases       0.00      0.00      0.00         0
+                     genetic and inherited diseases       0.00      0.00      0.00         0
+                      genetic and molecular biology       0.00      0.00      0.00         0
+             genetic and molecular biology research       0.00      0.00      0.00         0
+                                   genetic diseases       0.00      0.00      0.00         0
+                                  genetic disorders       0.00      0.00      0.00         0
+                                 geriatric diseases       0.00      0.00      0.00         0
+                                  health profession       0.00      0.00      0.00         0
+                               hematologic diseases       0.00      0.00      0.00         0
+                       hemic and lymphatic diseases       0.26      0.44      0.33        72
+                               immunologic diseases       0.28      0.24      0.26       225
+                                infectious diseases       0.00      0.00      0.00         0
+                              inflammatory diseases       0.00      0.00      0.00         0
+                           interventional radiology       0.00      0.00      0.00         0
+                    laboratory procedures and tests       0.00      0.00      0.00         0
+                                   laboratory tests       0.00      0.00      0.00         0
+                   liver cirrhosis pharmacokinetics       0.00      0.00      0.00         0
+                                     liver diseases       0.00      0.00      0.00         0
+                              male genital diseases       0.00      0.00      0.00         0
+                male genital diseases and disorders       0.00      0.00      0.00         0
+              male genital diseases and infertility       0.00      0.00      0.00         0
+         male genital diseases and male infertility       0.00      0.00      0.00         0
+  male genital diseases and pregnancy complications       0.00      0.00      0.00         0
+        male genital diseases and urologic diseases       0.00      0.00      0.00         0
+                                    medical devices       0.00      0.00      0.00         0
+                                   mental disorders       0.00      0.00      0.00         0
+                                 metabolic diseases       0.00      0.00      0.00         0
+                           musculoskeletal diseases       0.32      0.72      0.44       122
+                neonatal diseases and abnormalities       0.27      0.37      0.31        71
+                                          neoplasms       0.81      0.60      0.69       563
+                            nervous system diseases       0.61      0.58      0.59       305
+                                neurogenic diseases       0.00      0.00      0.00         0
+                              neurological diseases       0.00      0.00      0.00         0
+                 nutritional and metabolic diseases       0.47      0.34      0.40       177
+             obstetrical and gynecological diseases       0.00      0.00      0.00         0
+                              occupational diseases       0.00      0.00      0.00         0
+                            ophthalmologic diseases       0.00      0.00      0.00         0
+                                        oral cancer       0.00      0.00      0.00         0
+                    oral health and dental diseases       0.00      0.00      0.00         0
+                                     organ diseases       0.00      0.00      0.00         0
+                      otorhinolaryngologic diseases       0.40      0.49      0.44        35
+                                               pain       0.00      0.00      0.00         0
+                           pain and pain management       0.00      0.00      0.00         0
+                                 painful conditions       0.00      0.00      0.00         0
+                                    palliative care       0.00      0.00      0.00         0
+                                 parasitic diseases       0.85      0.79      0.81        28
+                            pathological conditions       0.00      0.00      0.00         0
+        pathological conditions, signs and symptoms       0.28      0.08      0.12       435
+                                   pharmacokinetics       0.00      0.00      0.00         0
+                             pharmacologic activity       0.00      0.00      0.00         0
+                                       pharmacology       0.00      0.00      0.00         0
+                                          poisoning       0.00      0.00      0.00         0
+                                       primary care       0.00      0.00      0.00         0
+                               psychiatric diseases       0.00      0.00      0.00         0
+                                         psychiatry       0.00      0.00      0.00         0
+             psychological and behavioral disorders       0.00      0.00      0.00         0
+              psychological and behavioral symptoms       0.00      0.00      0.00         0
+                 psychological and mental disorders       0.00      0.00      0.00         0
+                  psychological and social problems       0.00      0.00      0.00         0
+                           psychological conditions       0.00      0.00      0.00         0
+                             psychological diseases       0.00      0.00      0.00         0
+                            psychological disorders       0.00      0.00      0.00         0
+                                      public health       0.00      0.00      0.00         0
+                                          radiology       0.00      0.00      0.00         0
+                        renal and urinary disorders       0.00      0.00      0.00         0
+                                     renal diseases       0.00      0.00      0.00         0
+                              renal system diseases       0.00      0.00      0.00         0
+                         respiratory tract diseases       0.49      0.65      0.56       137
+                      sexually transmitted diseases       0.00      0.00      0.00         0
+                                 signs and symptoms       0.00      0.00      0.00         0
+                skin and connective tissue diseases       0.58      0.52      0.55       128
+                            stomatognathic diseases       0.58      0.51      0.55        35
+                        substance-related disorders       0.00      0.00      0.00         0
+                    surgical and medical procedures       0.00      0.00      0.00         0
+                                surgical procedures       0.00      0.00      0.00         0
+                             toxicological diseases       0.00      0.00      0.00         0
+                                         toxicology       0.00      0.00      0.00         0
+                      trauma and emergency medicine       0.00      0.00      0.00         0
+                                  trauma and injury       0.00      0.00      0.00         0
+                     trauma and orthopedic diseases       0.00      0.00      0.00         0
+                                     trauma centers       0.00      0.00      0.00         0
+                traumatic and nontraumatic injuries       0.00      0.00      0.00         0
+                  urinary and male genital diseases       0.00      0.00      0.00         0
+                 urologic and male genital diseases       0.86      0.34      0.48       187
+                                     virus diseases       0.19      0.68      0.30        40
+                                 wound and injuries       0.00      0.00      0.00         0
+                                wounds and injuries       0.00      0.00      0.00         0
+
+                                           accuracy                           0.51      4050
+                                          macro avg       0.09      0.09      0.08      4050
+                                       weighted avg       0.58      0.51      0.51      4050

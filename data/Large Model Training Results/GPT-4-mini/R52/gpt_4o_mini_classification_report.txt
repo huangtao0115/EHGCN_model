@@ -1,0 +1,107 @@
+Dataset size: 2595
+Valid samples: 2582
+Error samples: 13
+
+Classification Report:
+                 precision    recall  f1-score   support
+
+            acq       0.98      0.67      0.80       646
+    agriculture       0.00      0.00      0.00         0
+           alum       0.88      0.93      0.90        15
+           auto       0.00      0.00      0.00         0
+           bank       0.00      0.00      0.00         0
+        banking       0.00      0.00      0.00         0
+        bauxite       0.00      0.00      0.00         0
+           bond       0.00      0.00      0.00         0
+            bop       0.31      1.00      0.47         9
+          cable       0.00      0.00      0.00         0
+            car       0.00      0.00      0.00         0
+        carcass       0.33      0.50      0.40         4
+      carcasses       0.00      0.00      0.00         0
+         cement       0.00      0.00      0.00         0
+      chemicals       0.00      0.00      0.00         0
+           chip       0.00      0.00      0.00         0
+           coal       0.00      0.00      0.00         0
+          cocoa       1.00      1.00      1.00         8
+         coffee       1.00      1.00      1.00        32
+         copper       0.65      1.00      0.79        13
+         cotton       1.00      1.00      1.00         7
+            cpi       0.95      0.95      0.95        21
+            cpu       0.17      1.00      0.29         2
+         credit       0.00      0.00      0.00         0
+          crude       0.96      0.46      0.62       106
+        diamond       0.00      0.00      0.00         0
+            dlr       0.11      1.00      0.19         2
+           earn       0.96      0.90      0.93      1106
+         energy       0.00      0.00      0.00         0
+          fruit       0.00      0.00      0.00         0
+           fuel       0.57      1.00      0.73         4
+      furniture       0.00      0.00      0.00         0
+            gas       0.45      0.83      0.59         6
+       gasoline       0.00      0.00      0.00         0
+            gnp       0.91      0.95      0.93        21
+           gold       0.76      0.96      0.85        26
+          grain       0.88      0.93      0.90        15
+         health       0.00      0.00      0.00         0
+     healthcare       0.00      0.00      0.00         0
+           heat       0.75      1.00      0.86         3
+          hotel       0.00      0.00      0.00         0
+        housing       0.62      1.00      0.77         5
+         income       0.44      1.00      0.62         4
+    instal-debt       0.29      1.00      0.44         2
+       interest       0.91      0.68      0.78        77
+            ipi       0.92      0.92      0.92        13
+     iron-steel       0.50      0.91      0.65        11
+            jet       1.00      1.00      1.00         1
+           jobs       0.58      1.00      0.74        14
+          juice       0.00      0.00      0.00         0
+           lead       0.75      1.00      0.86         3
+            lei       1.00      1.00      1.00         4
+      livestock       0.60      0.50      0.55         6
+         lumber       0.50      1.00      0.67         4
+      meal-feed       0.67      1.00      0.80         2
+           meat       0.00      0.00      0.00         0
+          media       0.00      0.00      0.00         0
+           milk       0.00      0.00      0.00         0
+       money-fx       0.77      0.75      0.76        83
+   money-supply       0.90      0.84      0.87        43
+        nat-gas       0.13      1.00      0.23        11
+         nickel       1.00      1.00      1.00         2
+           none       0.00      0.00      0.00         0
+            oil       0.00      0.00      0.00         0
+         orange       1.00      1.00      1.00         7
+          paper       0.00      0.00      0.00         0
+       pet-chem       0.17      0.83      0.28         6
+         pharma       0.00      0.00      0.00         0
+       platinum       1.00      1.00      1.00         1
+         potato       1.00      1.00      1.00         2
+            ppi       0.00      0.00      0.00         0
+    real estate       0.00      0.00      0.00         0
+    real-estate       0.00      0.00      0.00         0
+         realty       0.00      0.00      0.00         0
+       reserves       0.86      0.86      0.86        14
+         retail       0.13      0.83      0.23         6
+         rubber       0.80      1.00      0.89        12
+ semiconductors       0.00      0.00      0.00         0
+           ship       0.63      0.78      0.70        41
+        silicon       0.00      0.00      0.00         0
+         silver       0.00      0.00      0.00         0
+          steel       0.00      0.00      0.00         0
+strategic-metal       0.12      0.20      0.15         5
+          sugar       0.90      1.00      0.95        35
+            tea       1.00      1.00      1.00         2
+        telecom       0.00      0.00      0.00         0
+        textile       0.00      0.00      0.00         0
+            tin       1.00      0.88      0.93         8
+          trade       0.80      0.73      0.76        92
+ transportation       0.00      0.00      0.00         0
+        uranium       0.00      0.00      0.00         0
+        veg-oil       0.73      0.89      0.80         9
+          waste       0.00      0.00      0.00         0
+           wine       0.00      0.00      0.00         0
+            wpi       0.86      0.86      0.86         7
+           zinc       0.33      1.00      0.50         4
+
+       accuracy                           0.81      2582
+      macro avg       0.38      0.48      0.40      2582
+   weighted avg       0.91      0.81      0.85      2582

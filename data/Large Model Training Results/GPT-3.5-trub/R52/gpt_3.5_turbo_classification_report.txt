@@ -1,0 +1,123 @@
+Dataset size: 2595
+Valid samples: 2595
+Error samples: 0
+
+Classification Report:
+                 precision    recall  f1-score   support
+
+            acq       0.98      0.81      0.89       647
+    agriculture       0.00      0.00      0.00         0
+            air       0.00      0.00      0.00         0
+       aircraft       0.00      0.00      0.00         0
+        airline       0.00      0.00      0.00         0
+          airln       0.00      0.00      0.00         0
+           alum       0.88      0.93      0.90        15
+           bank       0.00      0.00      0.00         0
+      bank-earn       0.00      0.00      0.00         0
+        banking       0.00      0.00      0.00         0
+     bankruptcy       0.00      0.00      0.00         0
+           bond       0.00      0.00      0.00         0
+            bop       0.56      1.00      0.72         9
+         budget       0.00      0.00      0.00         0
+        carcass       0.00      0.00      0.00         4
+         cattle       0.00      0.00      0.00         0
+         cement       0.00      0.00      0.00         0
+           chem       0.00      0.00      0.00         0
+          cocoa       1.00      1.00      1.00        18
+         coffee       1.00      1.00      1.00        32
+         copper       0.87      1.00      0.93        13
+      cosmetics       0.00      0.00      0.00         0
+         cotton       0.70      1.00      0.82         7
+            cpi       0.87      0.95      0.91        21
+            cpu       0.09      1.00      0.16         2
+         credit       0.00      0.00      0.00         0
+          crude       0.98      0.39      0.55       106
+       currency       0.00      0.00      0.00         0
+          dairy       0.00      0.00      0.00         0
+            div       0.00      0.00      0.00         0
+       dividend       0.00      0.00      0.00         0
+            dlr       0.33      1.00      0.50         2
+         dollar       0.00      0.00      0.00         0
+        durable       0.00      0.00      0.00         0
+           earn       0.99      0.55      0.71      1108
+         energy       0.00      0.00      0.00         0
+           farm       0.00      0.00      0.00         0
+           fcoj       0.00      0.00      0.00         0
+           fuel       0.33      1.00      0.50         4
+      furniture       0.00      0.00      0.00         0
+            gas       0.22      0.33      0.27         6
+            gnp       0.84      1.00      0.91        21
+           gold       0.68      0.96      0.79        26
+          grain       1.00      0.93      0.97        15
+           heat       0.00      0.00      0.00         3
+        housing       0.62      1.00      0.77         5
+         income       0.01      1.00      0.02         4
+     industrial       0.00      0.00      0.00         0
+    instal-debt       0.10      0.50      0.17         2
+          insur       0.00      0.00      0.00         0
+      insurance       0.00      0.00      0.00         0
+       interest       0.92      0.78      0.85        77
+            ipi       1.00      0.46      0.63        13
+     iron-steel       0.24      1.00      0.39        11
+            jet       1.00      1.00      1.00         1
+           jobs       0.93      1.00      0.97        14
+         labour       0.00      0.00      0.00         0
+           lead       1.00      1.00      1.00         3
+        leading       0.00      0.00      0.00         0
+            lei       1.00      0.50      0.67         4
+      livestock       1.00      0.50      0.67         6
+           loan       0.00      0.00      0.00         0
+         lumber       0.50      0.75      0.60         4
+      meal-feed       1.00      0.50      0.67         2
+           meat       0.00      0.00      0.00         0
+      meat-feed       0.00      0.00      0.00         0
+          metal       0.00      0.00      0.00         0
+         mining       0.00      0.00      0.00         0
+       money-fx       0.77      0.69      0.73        83
+   money-supply       0.73      0.70      0.71        43
+        nat-gas       0.36      0.73      0.48        11
+           news       0.00      0.00      0.00         0
+         nickel       1.00      1.00      1.00         2
+            oil       0.00      0.00      0.00         0
+         orange       1.00      0.71      0.83         7
+          paper       0.00      0.00      0.00         0
+       pet-chem       0.43      0.50      0.46         6
+        plastic       0.00      0.00      0.00         0
+       platinum       1.00      1.00      1.00         1
+           pork       0.00      0.00      0.00         0
+         potato       1.00      1.00      1.00         2
+        poultry       0.00      0.00      0.00         0
+          power       0.00      0.00      0.00         0
+precious metals       0.00      0.00      0.00         0
+           pulp       0.00      0.00      0.00         0
+    real estate       0.00      0.00      0.00         0
+    real-estate       0.00      0.00      0.00         0
+       reserves       0.92      0.79      0.85        14
+         retail       0.12      0.50      0.19         6
+         rubber       0.75      1.00      0.86        12
+            sec       0.00      0.00      0.00         0
+  semiconductor       0.00      0.00      0.00         0
+           ship       0.71      0.83      0.76        41
+           shoe       0.00      0.00      0.00         0
+         silver       0.00      0.00      0.00         0
+          stock       0.00      0.00      0.00         0
+strategic-metal       0.33      0.40      0.36         5
+          sugar       0.92      0.97      0.94        35
+            tax       0.00      0.00      0.00         0
+            tea       1.00      1.00      1.00         2
+           tech       0.00      0.00      0.00         0
+        telecom       0.00      0.00      0.00         0
+            tin       1.00      0.88      0.93         8
+            toy       0.00      0.00      0.00         0
+          trade       0.96      0.88      0.92        92
+        uranium       0.00      0.00      0.00         0
+        veg-oil       0.88      0.78      0.82         9
+          water       0.00      0.00      0.00         0
+        weather       0.00      0.00      0.00         0
+           wine       0.00      0.00      0.00         0
+            wpi       1.00      0.86      0.92         7
+           zinc       0.80      1.00      0.89         4
+
+       accuracy                           0.69      2595
+      macro avg       0.33      0.37      0.33      2595
+   weighted avg       0.94      0.69      0.77      2595

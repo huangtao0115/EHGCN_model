@@ -1,0 +1,13 @@
+Dataset size: 3554
+Valid samples: 3551
+Error samples: 3
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.98      0.88      1776
+           1       0.97      0.75      0.85      1775
+
+    accuracy                           0.87      3551
+   macro avg       0.89      0.87      0.86      3551
+weighted avg       0.89      0.87      0.86      3551

@@ -1,0 +1,19 @@
+Dataset size: 2193
+Valid samples: 2190
+Error samples: 3
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         acq       0.92      0.93      0.93       652
+       crude       0.92      0.85      0.88       107
+        earn       1.00      0.94      0.97      1120
+       grain       0.88      0.93      0.90        15
+    interest       0.92      0.74      0.82        77
+    money-fx       0.75      0.83      0.79        84
+        ship       0.87      0.79      0.82        42
+       trade       0.55      0.99      0.70        93
+
+    accuracy                           0.92      2190
+   macro avg       0.85      0.88      0.85      2190
+weighted avg       0.94      0.92      0.92      2190

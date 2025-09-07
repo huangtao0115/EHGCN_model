@@ -1,0 +1,94 @@
+D:\anaconda3\python.exe F:\A-series-of-NLP-main\A-series-of-NLP-main\A-series-of-NLP-main\文本分类\TextCNN_文本分类\glm-4-flash训练结果.py 
+准确率: 0.2968
+F1值: 0.0932
+
+分类报告:
+D:\anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+                                                     precision    recall  f1-score   support
+
+                                      alcohol abuse       0.00      0.00      0.00         0
+                                 allergic reactions       0.00      0.00      0.00         0
+                                    animal diseases       0.10      0.09      0.10        11
+                              antibiotic resistance       0.00      0.00      0.00         0
+                   bacterial infections and mycoses       0.76      0.22      0.34       119
+                                             cancer       0.00      0.00      0.00         0
+                            cardiovascular diseases       0.00      0.00      0.00         0
+                                    dental diseases       0.00      0.00      0.00         0
+                                     dental hygiene       0.00      0.00      0.00         0
+                                           diabetes       0.00      0.00      0.00         0
+                   diabetes and endocrine disorders       0.00      0.00      0.00         0
+                          digestive system diseases       0.00      0.00      0.00         0
+                  disorders of environmental origin       0.88      0.07      0.13       303
+                                 endocrine diseases       0.00      0.00      0.00         0
+                               environmental health       0.00      0.00      0.00         0
+                                       eye diseases       0.72      0.72      0.72        69
+female genital diseases and pregnancy complications       0.70      0.49      0.57       107
+                                  fungal infections       0.00      0.00      0.00         0
+                               hematologic diseases       0.00      0.00      0.00         0
+                       hemic and lymphatic diseases       0.88      0.10      0.17        73
+                       hemof and lymphatic diseases       0.00      0.00      0.00         0
+                               immunologic diseases       0.00      0.00      0.00         0
+                                              label       0.00      0.00      0.00         1
+                                   material science       0.00      0.00      0.00         0
+                                   mental disorders       0.00      0.00      0.00         0
+                            mental health disorders       0.00      0.00      0.00         0
+                           musculoskeletal diseases       0.46      0.50      0.48       122
+                neonatal diseases and abnormalities       0.28      0.31      0.29        71
+                                          neoplasms       0.00      0.00      0.00         0
+                                         neoplasms        0.00      0.00      0.00       234
+                            nervous system diseases       0.85      0.32      0.47       305
+                              neurological diseases       0.00      0.00      0.00         0
+                             neurological disorders       0.00      0.00      0.00         0
+                        neurological rehabilitation       0.00      0.00      0.00         0
+                             neuromuscular diseases       0.00      0.00      0.00         0
+                      neuromusculoskeletal diseases       0.00      0.00      0.00         0
+                               neuropathic diseases       0.00      0.00      0.00         0
+                                   neuropathic pain       0.00      0.00      0.00         0
+                                       neuropathies       0.00      0.00      0.00         0
+                 nutritional and metabolic diseases       0.60      0.47      0.53       177
+                              occupational diseases       0.00      0.00      0.00         0
+                      otorhinolaryngologic diseases       0.67      0.29      0.40        35
+                                 parasitic diseases       1.00      0.39      0.56        28
+                            pathological conditions       0.00      0.00      0.00         0
+        pathological conditions, signs and symptoms       0.00      0.00      0.00         0
+               pharmacokinetics and drug metabolism       0.00      0.00      0.00         0
+                                               pred       0.00      0.00      0.00         0
+                       radiation effects on tissues       0.00      0.00      0.00         0
+            radiation effects on tissues and organs       0.00      0.00      0.00         0
+                            radiological procedures       0.00      0.00      0.00         0
+               reproductive and urological diseases       0.00      0.00      0.00         0
+                         respiratory tract diseases       0.69      0.59      0.64       137
+                               rheumatoid arthritis       0.00      0.00      0.00         0
+               rheumatoid arthritis, systemic lupus       0.00      0.00      0.00         0
+                             rheumatologic diseases       0.00      0.00      0.00         0
+                                 signs and symptoms       0.00      0.00      0.00         0
+                skin and connective tissue diseases       0.00      0.00      0.00         0
+               sports and exercise-related injuries       0.00      0.00      0.00         0
+                            stomatognathic diseases       0.44      0.34      0.39        35
+                           toxicological conditions       0.00      0.00      0.00         0
+                  urinary and male genital diseases       0.00      0.00      0.00         0
+                             urinary tract diseases       0.00      0.00      0.00         0
+                 urologic and male genital diseases       0.88      0.40      0.55       187
+                                  vascular diseases       0.00      0.00      0.00         0
+                                     virus diseases       0.00      0.00      0.00         0
+                                    virus diseases        0.00      0.00      0.00        41
+                                   vitamin diseases       0.00      0.00      0.00         0
+                              work-related diseases       0.00      0.00      0.00         0
+
+                                           accuracy                           0.30      2055
+                                          macro avg       0.15      0.08      0.09      2055
+                                       weighted avg       0.64      0.30      0.37      2055
+
+
+Process finished with exit code 0

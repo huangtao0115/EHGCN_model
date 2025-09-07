@@ -1,0 +1,28 @@
+Dataset size: 502
+Valid samples: 502
+Error samples: 0
+Sensitive content violations: 0
+
+Classification Report:
+               precision    recall  f1-score   support
+
+          abb       0.00      0.00      0.00         0
+         abbr       0.43      0.38      0.40         8
+         date       0.00      0.00      0.00         0
+         desc       0.83      0.98      0.90       110
+         enty       0.76      0.69      0.73       113
+          hum       0.99      0.69      0.81       109
+hum
+desc
+enty       0.00      0.00      0.00         0
+         lang       0.00      0.00      0.00         0
+          loc       0.94      0.96      0.95        77
+          num       0.87      0.99      0.92        85
+       period       0.00      0.00      0.00         0
+        plant       0.00      0.00      0.00         0
+        subst       0.00      0.00      0.00         0
+         symb       0.00      0.00      0.00         0
+
+     accuracy                           0.84       502
+    macro avg       0.34      0.33      0.34       502
+ weighted avg       0.87      0.84      0.84       502

@@ -1,0 +1,503 @@
+orig_index,text,label,pred,timestamp
+0,count how many people are taller than 7 feet \?,NUM,NUM,2025-08-24 20:08:56
+1,perc what ratio of children of ages between two and eleven watch ` the simpsons ' \?,NUM,NUM,2025-08-24 20:08:56
+2,count how many years of bad luck follow breaking a mirror \?,NUM,NUM,2025-08-24 20:08:57
+3,date in what year was actress joan collins born \?,NUM,NUM,2025-08-24 20:08:58
+4,count how many people died because of a smoking problem in 1997 \?,NUM,NUM,2025-08-24 20:08:59
+5,money what is the starting salary for beginning lawyers \?,NUM,NUM,2025-08-24 20:08:59
+6,money what will the california gas tax be in the year 2000 \?,NUM,NUM,2025-08-24 20:09:00
+7,count how many people have been captain america \?,NUM,NUM,2025-08-24 20:09:01
+8,count how many questions do you have on your database \?,NUM,NUM,2025-08-24 20:09:02
+9,date what year did the nfl go on strike \?,NUM,NUM,2025-08-24 20:09:02
+10,ord what chapter of the bible has the most verses \?,NUM,NUM,2025-08-24 20:09:04
+11,count how many varieties of twins are there \?,NUM,NUM,2025-08-24 20:09:04
+12,temp what should the temperature be set at while baking peachy oat muffins \?,NUM,NUM,2025-08-24 20:09:05
+13,count how many stars are there in big dipper \?,NUM,NUM,2025-08-24 20:09:06
+14,date when was the san francisco fire \?,NUM,NUM,2025-08-24 20:09:07
+15,money what will the increase be in the california gas tax by 2000 \?,NUM,NUM,2025-08-24 20:09:08
+16,temp how hot should the oven be when making peachy oat muffins \?,NUM,NUM,2025-08-24 20:09:08
+17,count how many small businesses are there in the united states \?,NUM,NUM,2025-08-24 20:09:09
+18,volsize how big is a quart \?,NUM,NUM,2025-08-24 20:09:10
+19,date when was the first kidney transplant \?,NUM,NUM,2025-08-24 20:09:10
+20,date when did communist control end in hungary \?,NUM,NUM,2025-08-24 20:09:11
+21,money how much did the iran contra investigation cost \?,NUM,NUM,2025-08-24 20:09:12
+22,ord what chapter of the bible has the most verses \?,NUM,NUM,2025-08-24 20:09:13
+23,"period the italian artist , maurizio pellegrin , is how old \?",NUM,NUM,2025-08-24 20:09:14
+24,count how many people in tucson \?,NUM,NUM,2025-08-24 20:09:14
+25,period what is the average age of a member of the team that worked on the manhatten project \?,NUM,NUM,2025-08-24 20:09:15
+26,date when was queen victoria born \?,NUM,NUM,2025-08-24 20:09:16
+27,dist what are the lengths of pearl necklaces \?,NUM,NUM,2025-08-24 20:09:17
+28,period what was the average life expectancy during the stone age \?,NUM,NUM,2025-08-24 20:09:18
+29,period how long do you have to live in a community to vote \?,NUM,NUM,2025-08-24 20:09:19
+30,count how many characters makes up a word for typing test purposes \?,NUM,NUM,2025-08-24 20:09:19
+31,money how much did mercury spend on advertising in 1993 \?,NUM,NUM,2025-08-24 20:09:20
+32,other what is the sales tax rate in new york \?,NUM,NUM,2025-08-24 20:09:21
+33,count how many people died on d day \?,NUM,NUM,2025-08-24 20:09:21
+34,date hitler came to power in germany in what year \?,NUM,NUM,2025-08-24 20:09:22
+35,date what date was dwight d eisenhower born \?,NUM,NUM,2025-08-24 20:09:23
+36,period what is maurizio pellegrin 's age \?,NUM,NUM,2025-08-24 20:09:24
+37,date what day of the week sees the most fatal car accidents \?,NUM,NUM,2025-08-24 20:09:25
+38,date what century does captain video live in \?,NUM,NUM,2025-08-24 20:09:25
+39,date when did spielberg direct `` jaws '' \?,NUM,NUM,2025-08-24 20:09:26
+40,date when was the internal combustion engine developed \?,NUM,NUM,2025-08-24 20:09:27
+41,count how many points are there on a backgammon board \?,NUM,NUM,2025-08-24 20:09:28
+42,period how long does a dog sleep \?,NUM,NUM,2025-08-24 20:09:29
+43,money how much did a mcdonald 's hamburger cost in 1963 \?,NUM,NUM,2025-08-24 20:09:30
+44,date in what year did the bounty mutiny happen \?,NUM,NUM,2025-08-24 20:09:31
+45,period how long was the tv mission of star trek 's enterprise to be \?,NUM,NUM,2025-08-24 20:09:32
+46,other what are the unemployment statistics for the years 1965 and 1990 \?,NUM,NUM,2025-08-24 20:09:32
+47,period what is the gestation period for human pregnancies \?,NUM,NUM,2025-08-24 20:09:33
+48,date what geological time do we live in \?,NUM,NUM,2025-08-24 20:09:34
+49,count how many times does the tide ebb and flow each day \?,NUM,NUM,2025-08-24 20:09:34
+50,count how many major nazi leaders went on trial after the war at nuremberg \?,NUM,NUM,2025-08-24 20:09:35
+51,date what is judy garland 's date of birth \?,NUM,NUM,2025-08-24 20:09:36
+52,date what year did the u s buy alaska \?,NUM,NUM,2025-08-24 20:09:37
+53,date when was john d rockefeller born \?,NUM,NUM,2025-08-24 20:09:37
+54,perc what percentage of all world tornados touch down in the us \?,NUM,NUM,2025-08-24 20:09:38
+55,period how long did the paris commune hold out for against the rest of france \?,NUM,NUM,2025-08-24 20:09:39
+56,money what is the federal minimum wage \?,NUM,NUM,2025-08-24 20:09:39
+57,date what year did the united states abolish the draft \?,NUM,NUM,2025-08-24 20:09:40
+58,date when was the first liver transplant \?,NUM,NUM,2025-08-24 20:09:41
+59,date when were william shakespeare 's twins born \?,NUM,NUM,2025-08-24 20:09:41
+60,count how many people died on south carolina highways in 1998 \?,NUM,NUM,2025-08-24 20:09:42
+61,period how long do flies live \?,NUM,NUM,2025-08-24 20:09:43
+62,period how old was elvis presley when he died \?,NUM,NUM,2025-08-24 20:09:44
+63,date when was franklin d roosevelt stricken with polio \?,NUM,NUM,2025-08-24 20:09:45
+64,count how many objects orbit the earth \?,NUM,NUM,2025-08-24 20:09:45
+65,count how many grooves are on a dime \?,NUM,NUM,2025-08-24 20:09:46
+66,count how many different vegetation zones are there \?,NUM,NUM,2025-08-24 20:09:47
+67,date when did muhammad live \?,NUM,NUM,2025-08-24 20:09:48
+68,period what is the average life expectancy of a male in ireland in 1996 \?,NUM,NUM,2025-08-24 20:09:48
+69,count how many watts make a kilowatt \?,NUM,NUM,2025-08-24 20:09:50
+70,date what is susan b anthony 's birthday \?,NUM,NUM,2025-08-24 20:09:50
+71,other what was the number of people that randy steven craft was convicted of killing \?,NUM,NUM,2025-08-24 20:09:52
+72,date when was the de beers company founded \?,NUM,NUM,2025-08-24 20:09:53
+73,date what time of day did emperor hirohito die \?,NUM,NUM,2025-08-24 20:09:54
+74,period what is the average time to kiss somene \?,NUM,NUM,2025-08-24 20:09:55
+75,count how many films are made by the major studios in a year \?,NUM,NUM,2025-08-24 20:09:56
+76,count how many children does ray davies of the kinks have \?,NUM,NUM,2025-08-24 20:09:57
+77,"date in 1990 , what day of the week did christmas fall on \?",NUM,NUM,2025-08-24 20:09:57
+78,period what is the gestation period for a cat \?,NUM,NUM,2025-08-24 20:09:58
+79,count how many cards are dealt to each player in gin rummy \?,NUM,NUM,2025-08-24 20:09:59
+80,dist how high must a mountain be to be called a mountain \?,NUM,NUM,2025-08-24 20:10:00
+81,dist what are the dimensions of an ice hockey goal \?,NUM,NUM,2025-08-24 20:10:00
+82,period for how long is an elephant pregnant \?,NUM,NUM,2025-08-24 20:10:01
+83,count how much electricity does the brain need to work \?,NUM,NUM,2025-08-24 20:10:02
+84,date what year did oklahoma become a state \?,NUM,NUM,2025-08-24 20:10:03
+85,other what is george lucas 's e mail address \?,LOC,LOC,2025-08-24 20:10:03
+86,state what u s state is mammoth cave national park in \?,LOC,LOC,2025-08-24 20:10:04
+87,country what country are you in if you woo in the wu dialect \?,LOC,LOC,2025-08-24 20:10:05
+88,city what german city do italians call the monaco of bavaria \?,LOC,LOC,2025-08-24 20:10:05
+89,other what 's the world 's largest cathedral \?,LOC,LOC,2025-08-24 20:10:06
+90,other where is romania located \?,LOC,LOC,2025-08-24 20:10:07
+91,other where did surfing originate \?,LOC,LOC,2025-08-24 20:10:08
+92,other where does tuberculosis come from \?,LOC,LOC,2025-08-24 20:10:08
+93,city what city contains the district of hell 's kitchen \?,LOC,LOC,2025-08-24 20:10:09
+94,other where is the shawnee national forest \?,LOC,LOC,2025-08-24 20:10:10
+95,other where was the first zoo in the u s \?,LOC,LOC,2025-08-24 20:10:11
+96,other where can i find a lesson plan for teaching the metric system conversion to american standard \?,LOC,LOC,2025-08-24 20:10:12
+97,state what state in the u s has the most blacks \?,LOC,LOC,2025-08-24 20:10:13
+98,other where do apple snails live \?,LOC,LOC,2025-08-24 20:10:13
+99,"other where can i find all the information i need to know about the english civil war , 1642 1649 , \?",LOC,LOC,2025-08-24 20:10:14
+100,state what province is montreal in \?,LOC,LOC,2025-08-24 20:10:15
+101,other what 's the name of the temple that is located near the capital city of laos \?,LOC,LOC,2025-08-24 20:10:16
+102,city what u s city is known as the rubber capital of the world \?,LOC,LOC,2025-08-24 20:10:17
+103,other where does the u s get most of its energy \?,LOC,LOC,2025-08-24 20:10:18
+104,country which country has the most water pollution \?,LOC,LOC,2025-08-24 20:10:19
+105,country what european country 's monarchy was restored in 1975 \?,LOC,LOC,2025-08-24 20:10:19
+106,other where can stocks be traded on line \?,LOC,LOC,2025-08-24 20:10:20
+107,country what country saw the origin of the asian flu \?,LOC,LOC,2025-08-24 20:10:21
+108,"other where are the apartments in saint john , new brunswick \?",LOC,LOC,2025-08-24 20:10:21
+109,other where is the tallest roller coaster located \?,LOC,LOC,2025-08-24 20:10:22
+110,city what is the capital of zimbabwe \?,LOC,LOC,2025-08-24 20:10:23
+111,"other what sound does olympia , washington , overlook \?",LOC,LOC,2025-08-24 20:10:24
+112,city what is the capital of congo \?,LOC,LOC,2025-08-24 20:10:24
+113,other where can i find a world atlas map online at no charge \?,LOC,LOC,2025-08-24 20:10:25
+114,other where is the oldest living thing on earth \?,LOC,LOC,2025-08-24 20:10:26
+115,other where does the santa fe trail begin and end \?,LOC,LOC,2025-08-24 20:10:27
+116,city what capital is built around monument circle which contains soldiers and sailors monument \?,LOC,LOC,2025-08-24 20:10:27
+117,other where can i find an ask an expert site \?,LOC,LOC,2025-08-24 20:10:28
+118,country what country boasts the most dams \?,LOC,LOC,2025-08-24 20:10:29
+119,other what is website of the international court of justice \?,LOC,LOC,2025-08-24 20:10:29
+120,city what is the largest city in germany \?,LOC,LOC,2025-08-24 20:10:30
+121,"country what country was first to use the airplane as a weapon of war , against the turks in libya \?",LOC,LOC,2025-08-24 20:10:31
+122,other where does the tennis star stefan edberg come from \?,LOC,LOC,2025-08-24 20:10:32
+123,state what u s state does the continental divide leave to enter canada \?,LOC,LOC,2025-08-24 20:10:33
+124,other what continent is egypt on \?,LOC,LOC,2025-08-24 20:10:34
+125,other what island has a park called the battery at is southern tip \?,LOC,LOC,2025-08-24 20:10:35
+126,state what is the largest u s state east of the mississippi \?,LOC,LOC,2025-08-24 20:10:35
+127,other what 's the longest river in the world \?,LOC,LOC,2025-08-24 20:10:36
+128,other where did george of the jungle live \?,LOC,LOC,2025-08-24 20:10:37
+129,other where is south bend \?,LOC,LOC,2025-08-24 20:10:37
+130,other where can i find information on becoming a journalist \?,LOC,LOC,2025-08-24 20:10:38
+131,state what state in the united states covers the largest area \?,LOC,LOC,2025-08-24 20:10:39
+132,other what river is windsor castle on \?,LOC,LOC,2025-08-24 20:10:40
+133,city what is the capital of uruguay \?,LOC,LOC,2025-08-24 20:10:40
+134,other what island is home to statues called mauis \?,LOC,LOC,2025-08-24 20:10:41
+135,country what three european countries begin with the letter a \?,LOC,LOC,2025-08-24 20:10:42
+136,"other what prison is found in ossining , new york \?",LOC,LOC,2025-08-24 20:10:43
+137,other where are the 49 steps \?,LOC,LOC,2025-08-24 20:10:43
+138,"other what former royal palace has served as a granary , prison , arsenal , leper colony , mint , telegraph station and whorehouse before becoming an art museum \?",LOC,LOC,2025-08-24 20:10:44
+139,"city in sinclair lewis ' `` main street , '' what was the name of the typical american town \?",LOC,LOC,2025-08-24 20:10:45
+140,other where is the kentucky horse park located \?,LOC,LOC,2025-08-24 20:10:45
+141,other where did the inuits live \?,LOC,LOC,2025-08-24 20:10:46
+142,other where is the location of the orange bowl \?,LOC,LOC,2025-08-24 20:10:47
+143,other where does the opera singer ileana cotrubas come from \?,LOC,HUM,2025-08-24 20:10:48
+144,city what city hosted the first winter olympics in asia \?,LOC,LOC,2025-08-24 20:10:48
+145,other where is basque country located \?,LOC,LOC,2025-08-24 20:10:49
+146,mount what was the highest mountain on earth before mount everest was discovered \?,LOC,NUM,2025-08-24 20:10:50
+147,city in what city is the famed st mark 's square \?,LOC,LOC,2025-08-24 20:10:51
+148,other what is the largest shopping mall in the world \?,LOC,LOC,2025-08-24 20:10:51
+149,other what were the first bodies visited by spacecraft \?,LOC,ENTY,2025-08-24 20:10:52
+150,other what is the location of the sea of tranquility \?,LOC,LOC,2025-08-24 20:10:53
+151,country what two countries ' coastlines border the bay of biscay \?,LOC,LOC,2025-08-24 20:10:54
+152,other what is the largest county in size in massachusetts \?,LOC,LOC,2025-08-24 20:10:54
+153,other what web sites are linked to the report on genesis eldercare \?,LOC,LOC,2025-08-24 20:10:55
+154,other where is ayer 's rock \?,LOC,LOC,2025-08-24 20:10:56
+155,"other what is the best place to live in the world , considering climate , civilization \?",LOC,LOC,2025-08-24 20:10:56
+156,other what are tourist attractions in reims \?,LOC,LOC,2025-08-24 20:10:57
+157,other name an art gallery in new york,LOC,LOC,2025-08-24 20:10:58
+158,city what 's the oldest capital city in the americas \?,LOC,LOC,2025-08-24 20:10:59
+159,other where does the song anything goes take place \?,LOC,LOC,2025-08-24 20:10:59
+160,country what country has the highest arson rate \?,LOC,LOC,2025-08-24 20:11:00
+161,other where is the isle of man \?,LOC,LOC,2025-08-24 20:11:01
+162,ind what six foot temperance advocate wielded her hatchet on saloons \?,HUM,HUM,2025-08-24 20:11:03
+163,gr what ethnic group introduced the idea of potlatch \?,HUM,HUM,2025-08-24 20:11:03
+164,ind what is nathan hamill 's role in the new star wars prequel \?,HUM,HUM,2025-08-24 20:11:04
+165,ind what 19th century painter died in the marquesas islands \?,HUM,HUM,2025-08-24 20:11:05
+166,"gr what chain store is headquartered in bentonville , arkansas \?",HUM,ENTY,2025-08-24 20:11:06
+167,ind who was the founding member of the pink floyd band \?,HUM,HUM,2025-08-24 20:11:07
+168,ind what are names of two old men who appear in the serial tv muppets show \?,HUM,HUM,2025-08-24 20:11:08
+169,gr what was the previous name for the commonwealth \?,HUM,ENTY,2025-08-24 20:11:09
+170,ind who created the monster in mary shelley 's novel frankenstein \?,HUM,HUM,2025-08-24 20:11:10
+171,ind who was the first u s president to appear on tv \?,HUM,HUM,2025-08-24 20:11:11
+172,ind which glamorous actress is a close friend of dick tracy \?,HUM,HUM,2025-08-24 20:11:11
+173,gr what baseball team was routinely called `` dem bums '' by its frustrated fans \?,HUM,ENTY,2025-08-24 20:11:12
+174,ind what cigar chewing comedian observed `` you 're only as old as the woman you feel '' \?,HUM,HUM,2025-08-24 20:11:13
+175,ind who do herb and tootsie live next door to \?,HUM,HUM,2025-08-24 20:11:14
+176,ind who is archie bunker 's son in law \?,HUM,HUM,2025-08-24 20:11:15
+177,ind who painted `` soft self portrait with grilled bacon '' \?,HUM,HUM,2025-08-24 20:11:16
+178,ind who is the father of the computer \?,HUM,HUM,2025-08-24 20:11:17
+179,ind who is the premier of china \?,HUM,HUM,2025-08-24 20:11:17
+180,"ind who is the author of the book , `` the iron lady a biography of margaret thatcher '' \?",HUM,HUM,2025-08-24 20:11:18
+181,"ind what famous soldier was born in europe , died in asia , and was laid to rest in africa \?",HUM,HUM,2025-08-24 20:11:19
+182,ind who seized power from milton obote in 1971 \?,HUM,HUM,2025-08-24 20:11:20
+183,ind who 's played the most games for the new york yankees \?,HUM,HUM,2025-08-24 20:11:20
+184,"ind who portrayed fatman in the television show , `` jake and the fatman '' \?",HUM,HUM,2025-08-24 20:11:21
+185,ind what 's the name of tom sawyer 's aunt with whom he lives \?,HUM,HUM,2025-08-24 20:11:22
+186,gr what are the three most successful companies of our time \?,HUM,ENTY,2025-08-24 20:11:23
+187,title what does nicholas cage do for a living \?,HUM,HUM,2025-08-24 20:11:25
+188,gr what corporation does madonna advertise for \?,HUM,ENTY,2025-08-24 20:11:26
+189,ind what were babe ruth 's christian names \?,HUM,HUM,2025-08-24 20:11:26
+190,ind what national basketball association superstar told his story in giant steps \?,HUM,HUM,2025-08-24 20:11:27
+191,desc who is imam hussain ben ali whom shia people believe in \?,HUM,DESC,2025-08-24 20:11:28
+192,gr what company uses the unfamiliar faces of its celebrity spokespeople to promote the use of its product \?,HUM,ENTY,2025-08-24 20:11:29
+193,ind what daughter of henry viii and anne boleyn became queen of england \?,HUM,HUM,2025-08-24 20:11:30
+194,ind who was the prophet of the jewish people \?,HUM,HUM,2025-08-24 20:11:31
+195,"ind what is the real name of the singer , madonna \?",HUM,HUM,2025-08-24 20:11:32
+196,ind who is malaysia 's 43rd prime minister \?,HUM,HUM,2025-08-24 20:11:32
+197,ind who did jackie kennedy commission to write the death of a president \?,HUM,HUM,2025-08-24 20:11:33
+198,ind which former ku klux klan member won an elected office in the u s \?,HUM,HUM,2025-08-24 20:11:34
+199,ind what are the characters ' names in the scooby doo cartoon \?,HUM,HUM,2025-08-24 20:11:34
+200,ind what contemptible scoundrel stole the cork from my lunch \?,HUM,HUM,2025-08-24 20:11:35
+201,ind who is currently the most popular singer in the world \?,HUM,HUM,2025-08-24 20:11:36
+202,ind whose video is titled shape up with arnold \?,HUM,HUM,2025-08-24 20:11:37
+203,ind what california governor said `` inaction may be the highest form of action '' \?,HUM,HUM,2025-08-24 20:11:38
+204,ind who was the girl in peter sellers 's soup \?,HUM,HUM,2025-08-24 20:11:39
+205,ind who established a viking colony in greenland about 985 \?,HUM,HUM,2025-08-24 20:11:39
+206,ind who invented the stethoscope \?,HUM,HUM,2025-08-24 20:11:40
+207,ind who was the prophet of the muslim people \?,HUM,HUM,2025-08-24 20:11:41
+208,ind who was the second person ever to wear iron man 's armor \?,HUM,HUM,2025-08-24 20:11:42
+209,ind what is the name of the managing director of apricot computer \?,HUM,HUM,2025-08-24 20:11:43
+210,gr who made the first airplane that could fly \?,HUM,HUM,2025-08-24 20:11:43
+211,gr what organization was founded by the rev jerry falwell \?,HUM,HUM,2025-08-24 20:11:44
+212,ind who was the abolitionist who led the raid on harper 's ferry in 1859 \?,HUM,HUM,2025-08-24 20:11:45
+213,gr what was the first u s based team in the nhl \?,HUM,ENTY,2025-08-24 20:11:46
+214,ind what president once told gene autry `` please give my regards to your wife dale '' \?,HUM,HUM,2025-08-24 20:11:46
+215,ind who lived in the neuschwanstein castle \?,HUM,HUM,2025-08-24 20:11:47
+216,ind name the on stage character whose face was never seen,HUM,HUM,2025-08-24 20:11:48
+217,ind who is the governor of alaska \?,HUM,HUM,2025-08-24 20:11:48
+218,ind with whom did bush compare saddam hussein \?,HUM,HUM,2025-08-24 20:11:49
+219,ind what former african leader held his country 's boxing title for nine years \?,HUM,HUM,2025-08-24 20:11:50
+220,ind who was the first king of england \?,HUM,HUM,2025-08-24 20:11:51
+221,ind what comedienne upstaged dwight d eisenhower 's first inauguration by giving birth to her first child \?,HUM,HUM,2025-08-24 20:11:52
+222,ind who retired with 755 home runs to his credit \?,HUM,HUM,2025-08-24 20:11:52
+223,"ind who played for the chicago bears , houston oilers and oakland raiders in a 26 year pro football career \?",HUM,HUM,2025-08-24 20:11:53
+224,ind who founded the modern theory of probability \?,HUM,HUM,2025-08-24 20:11:54
+225,gr what organization is the security council a part of \?,HUM,ENTY,2025-08-24 20:11:55
+226,ind what 2th century american poet wrote a four volume biography of abraham lincoln \?,HUM,HUM,2025-08-24 20:11:56
+227,gr which organization is the security council a part of \?,HUM,ENTY,2025-08-24 20:11:57
+228,ind who is the monarch of the united kingdom \?,HUM,HUM,2025-08-24 20:11:57
+229,ind who served as inspiration for the schoolteacher portrayed by robin williams in `` dead poets society '' \?,HUM,HUM,2025-08-24 20:11:58
+230,ind what fictional character is known as the `` melancholy dane '' \?,HUM,HUM,2025-08-24 20:11:59
+231,ind what comic of tv 's golden age went by the motto `` anything for a laugh '' \?,HUM,HUM,2025-08-24 20:12:00
+232,gr what are the five most popular usenet groups \?,HUM,ENTY,2025-08-24 20:12:01
+233,ind what was william f cody 's better known name \?,HUM,HUM,2025-08-24 20:12:01
+234,ind what 's comic strip photographer peter parker 's secret identity \?,HUM,HUM,2025-08-24 20:12:02
+235,ind which nba players had jersey number 0 \?,HUM,HUM,2025-08-24 20:12:03
+236,ind who held the endurance record for women pilots in 1929 \?,HUM,HUM,2025-08-24 20:12:04
+237,ind what wrestling star became `` the incredible hulk '' \?,HUM,HUM,2025-08-24 20:12:04
+238,ind what longtime game show host dropped dead while jogging in central park in 1984 \?,HUM,HUM,2025-08-24 20:12:05
+239,ind who invented the hula hoop \?,HUM,HUM,2025-08-24 20:12:06
+240,gr what corporation does madonna advertise for \?,HUM,ENTY,2025-08-24 20:12:07
+241,ind who sang the song `` hooked on a feeling '' in the dancing baby episode of `` ally mcbeal '' \?,HUM,HUM,2025-08-24 20:12:08
+242,gr what presidential administration challenged americans to explore the new frontier \?,HUM,HUM,2025-08-24 20:12:09
+243,ind who said `` old soldiers never die they just fade away '' \?,HUM,HUM,2025-08-24 20:12:10
+244,ind what 19th century writer had a country estate on the hudson dubbed sunnyside \?,HUM,HUM,2025-08-24 20:12:10
+245,ind who wrote ` hamlet ' \?,HUM,HUM,2025-08-24 20:12:11
+246,ind who portrayed renaud in casablanca \?,HUM,HUM,2025-08-24 20:12:12
+247,"ind what was the name of the first watergate special prosecutor , later fired by nixon \?",HUM,HUM,2025-08-24 20:12:13
+248,"ind who claimed he killed 4 , 280 buffalo as food for the crew building the kansas pacific railway \?",HUM,HUM,2025-08-24 20:12:14
+249,ind what was the name of the cook on rawhide \?,HUM,HUM,2025-08-24 20:12:15
+250,ind who was the first american world chess champion \?,HUM,HUM,2025-08-24 20:12:15
+251,gr what japanese electronics company was named for a coastal city northeast of tokyo \?,HUM,ENTY,2025-08-24 20:12:16
+252,ind who said `` soldiers win the battles and generals get the credit '' \?,HUM,HUM,2025-08-24 20:12:17
+253,gr what party was winston churchill a member of \?,HUM,HUM,2025-08-24 20:12:17
+254,ind who is the queen of holland \?,HUM,HUM,2025-08-24 20:12:18
+255,ind what are the top boy names in the u s \?,HUM,HUM,2025-08-24 20:12:19
+256,desc what information can you tell me about actor james cromwell \?,HUM,DESC,2025-08-24 20:12:20
+257,ind what was the role of the medieval guild \?,HUM,DESC,2025-08-24 20:12:21
+258,ind who is the prime minister of australia \?,HUM,HUM,2025-08-24 20:12:22
+259,gr what was the name of the 187s irish terrorist group in pennsylvania mining areas \?,HUM,ENTY,2025-08-24 20:12:22
+260,ind who does data collection in tourism \?,HUM,HUM,2025-08-24 20:12:23
+261,ind what actor has a tattoo on his right wrist reading scotland forever \?,HUM,HUM,2025-08-24 20:12:24
+262,ind who said `` the victor will never be asked if he told the truth '' \?,HUM,HUM,2025-08-24 20:12:25
+263,ind what son of a 15 year old mexican girl and a half irish father became the world 's most famous greek \?,HUM,HUM,2025-08-24 20:12:26
+264,ind who was the first person to reach the north pole \?,HUM,HUM,2025-08-24 20:12:26
+265,ind what relative of leo tolstoy translated war and peace eight times \?,HUM,HUM,2025-08-24 20:12:28
+266,ind who portrayed dracula in hammer studios ' films \?,HUM,HUM,2025-08-24 20:12:28
+267,"ind what feathered cartoon characters do yugoslavians know as vlaja , gaja , and raja \?",HUM,HUM,2025-08-24 20:12:29
+268,ind who discovered imaginary numbers \?,HUM,HUM,2025-08-24 20:12:30
+269,ind who bestowed great power upon captain britain \?,HUM,HUM,2025-08-24 20:12:31
+270,gr what college produced the most winning super bowl quarterbacks \?,HUM,HUM,2025-08-24 20:12:32
+271,reason why can 't women serve in the navy on board submarines \?,DESC,DESC,2025-08-24 20:12:32
+272,def what is troilism \?,DESC,DESC,2025-08-24 20:12:33
+273,def what is measured in curies \?,DESC,DESC,2025-08-24 20:12:34
+274,desc what are the words to the song sung by `` banana in pajamas '' \?,DESC,DESC,2025-08-24 20:12:34
+275,desc what is the origin of the candy cane at christmas \?,DESC,DESC,2025-08-24 20:12:35
+276,def what are semiconductors \?,DESC,DESC,2025-08-24 20:12:36
+277,def what is a leper \?,DESC,DESC,2025-08-24 20:12:36
+278,desc what 's the difference and advantages of selecting a super vhs vcr over plain vhs model \?,DESC,DESC,2025-08-24 20:12:37
+279,reason why is rush 's 2112 called 2112 \?,DESC,DESC,2025-08-24 20:12:38
+280,def what is the moulin rouge \?,DESC,DESC,2025-08-24 20:12:38
+281,manner how do i know someone is truly in love with me \?,DESC,DESC,2025-08-24 20:12:39
+282,desc what 's the difference between tft and dual scan display \?,DESC,DESC,2025-08-24 20:12:40
+283,desc what do i need to learn to design web pages \?,DESC,DESC,2025-08-24 20:12:41
+284,desc what do japanese school uniforms look like \?,DESC,DESC,2025-08-24 20:12:42
+285,manner how do you build a solar car for a high school experiment \?,DESC,DESC,2025-08-24 20:12:42
+286,manner how does a rainbow form \?,DESC,DESC,2025-08-24 20:12:43
+287,def what is usenet for the internet \?,DESC,DESC,2025-08-24 20:12:44
+288,reason why is thanksgiving on a thursday \?,DESC,DESC,2025-08-24 20:12:44
+289,manner how do i sing like elvis presley \?,DESC,DESC,2025-08-24 20:12:45
+290,def what are hook worms \?,DESC,DESC,2025-08-24 20:12:46
+291,"def what does the greek word polis mean , as in minneapolis \?",DESC,DESC,2025-08-24 20:12:46
+292,desc what is the difference between a board of directors and an advisory board \?,DESC,DESC,2025-08-24 20:12:47
+293,reason why do movie and tv stars get paid so much \?,DESC,DESC,2025-08-24 20:12:48
+294,def what is linux \?,DESC,DESC,2025-08-24 20:12:48
+295,def what is a pig in a poke \?,DESC,DESC,2025-08-24 20:12:49
+296,def what is supernova \?,DESC,DESC,2025-08-24 20:12:50
+297,desc what motto ended merrie melodies cartoons \?,DESC,DESC,2025-08-24 20:12:51
+298,def what is commonly considered the fifth sense \?,DESC,DESC,2025-08-24 20:12:52
+299,manner how do you stop junk snail mail \?,DESC,DESC,2025-08-24 20:12:52
+300,manner how would i find the price of different organs that have been donated \?,DESC,DESC,2025-08-24 20:12:53
+301,manner how did u s a become involved in the barbary wars,DESC,DESC,2025-08-24 20:12:54
+302,reason what is betsy ross famous for \?,DESC,HUM,2025-08-24 20:12:55
+303,desc what is the nature of snow and how is the formation of snow different from that of ice \?,DESC,DESC,2025-08-24 20:12:55
+304,desc what are the arabic numerals from 1 to 10 \?,DESC,DESC,2025-08-24 20:12:56
+305,desc what do christian scientists believe in \?,DESC,DESC,2025-08-24 20:12:57
+306,def what is the definition of spamming \?,DESC,DESC,2025-08-24 20:12:57
+307,reason what makes salt \?,DESC,DESC,2025-08-24 20:12:59
+308,def what is a bone marrow transplant meant for \?,DESC,DESC,2025-08-24 20:12:59
+309,def what is hyperopia \?,DESC,DESC,2025-08-24 20:13:00
+310,reason why should cigarette smoking be banned \?,DESC,DESC,2025-08-24 20:13:01
+311,desc what is the origin of the word trigonometry \?,DESC,DESC,2025-08-24 20:13:02
+312,def what is viscosity \?,DESC,DESC,2025-08-24 20:13:02
+313,manner how is answers com different from knowpost com \?,DESC,DESC,2025-08-24 20:13:04
+314,manner how do i do this \?,DESC,DESC,2025-08-24 20:13:05
+315,desc what 's the difference between carelessness and carefreeness \?,DESC,DESC,2025-08-24 20:13:06
+316,def hazmat stands for what \?,DESC,ABBR,2025-08-24 20:13:07
+317,def what is home equity \?,DESC,DESC,2025-08-24 20:13:07
+318,"def what are vermicilli , rigati , zitoni , and tubetti \?",DESC,DESC,2025-08-24 20:13:09
+319,reason why is it called `` hamburger '' if there is no ham in it \?,DESC,DESC,2025-08-24 20:13:09
+320,def what is the circumorbital hematoma \?,DESC,DESC,2025-08-24 20:13:10
+321,def what is time \?,DESC,DESC,2025-08-24 20:13:11
+322,desc what do you say to a friend who ignores you for other friends \?,DESC,DESC,2025-08-24 20:13:11
+323,def what is `` alternative '' anymore \?,DESC,DESC,2025-08-24 20:13:12
+324,desc what 's the origin of the word ` news ' \?,DESC,DESC,2025-08-24 20:13:13
+325,manner how do you pronounce `` tzimisce '' \?,DESC,DESC,2025-08-24 20:13:14
+326,desc what was the rallying cry of the early american revolutionaries \?,DESC,DESC,2025-08-24 20:13:15
+327,reason why are organ transplants more successful today \?,DESC,DESC,2025-08-24 20:13:15
+328,def what is desktop publishing \?,DESC,DESC,2025-08-24 20:13:16
+329,def what is bandwidth \?,DESC,DESC,2025-08-24 20:13:17
+330,manner how is paraguay for vacations \?,DESC,DESC,2025-08-24 20:13:17
+331,def what is the definition of hazmat \?,DESC,DESC,2025-08-24 20:13:18
+332,def what is fungus \?,DESC,DESC,2025-08-24 20:13:19
+333,"desc what is the history of hot wheels cars , and how are they produced \?",DESC,DESC,2025-08-24 20:13:20
+334,def what is acetaminophen \?,DESC,DESC,2025-08-24 20:13:20
+335,desc what is the design of the ship titanic \?,DESC,DESC,2025-08-24 20:13:21
+336,desc what is the song stairway to heaven by led zeppelin about \?,DESC,DESC,2025-08-24 20:13:22
+337,manner how can you be happy \?,DESC,DESC,2025-08-24 20:13:23
+338,def what is the meaning of the name ella \?,DESC,DESC,2025-08-24 20:13:24
+339,desc what 's the setting of john le carre 's a small town in germany \?,DESC,DESC,2025-08-24 20:13:24
+340,manner how do you find the area of a circle \?,DESC,DESC,2025-08-24 20:13:25
+341,desc what do you know about multicultural and multilingual schools \?,DESC,DESC,2025-08-24 20:13:26
+342,def what does the name `` sabrina '' mean \?,DESC,DESC,2025-08-24 20:13:27
+343,def what are antacids \?,DESC,DESC,2025-08-24 20:13:27
+344,manner how is silk screening done \?,DESC,DESC,2025-08-24 20:13:28
+345,def what are the alveoli \?,DESC,DESC,2025-08-24 20:13:29
+346,def what 's the meaning of the name tatiana \?,DESC,DESC,2025-08-24 20:13:30
+347,def what is a nanometer \?,DESC,DESC,2025-08-24 20:13:31
+348,manner how do i impress a guy \?,DESC,DESC,2025-08-24 20:13:32
+349,desc what are the side effects of mevacor \?,DESC,DESC,2025-08-24 20:13:32
+350,reason what function does a community 's water tower serve \?,DESC,DESC,2025-08-24 20:13:33
+351,manner how do you get dates with the `` hooters '' girls \?,DESC,DESC,2025-08-24 20:13:34
+352,def what is the definition of cosmology \?,DESC,DESC,2025-08-24 20:13:34
+353,reason shea and gould closed their los angeles office for what reason \?,DESC,DESC,2025-08-24 20:13:35
+354,manner how can i find out what year a beanie baby was introduced \?,DESC,DESC,2025-08-24 20:13:36
+355,def what does the name `` justin '' mean \?,DESC,DESC,2025-08-24 20:13:37
+356,desc what baseball expression came from the nautical term for ships sailing between the atlantic and pacific before the panama canal \?,DESC,DESC,2025-08-24 20:13:37
+357,def what does target heart rate mean \?,DESC,DESC,2025-08-24 20:13:38
+358,"reason why is the universe flat , if it started by an explosion , shouldn 't it be a sphere \?",DESC,DESC,2025-08-24 20:13:39
+359,manner how does it make its colors \?,DESC,DESC,2025-08-24 20:13:39
+360,desc what is the difference between fatalism and determinism \?,DESC,DESC,2025-08-24 20:13:40
+361,def what is naproxen \?,DESC,DESC,2025-08-24 20:13:41
+362,reason why do you say `` god bless you '' when people sneeze \?,DESC,DESC,2025-08-24 20:13:41
+363,def what is smartnet \?,DESC,DESC,2025-08-24 20:13:42
+364,def what is pandoro \?,DESC,DESC,2025-08-24 20:13:43
+365,def what does e mc2 mean \?,DESC,DESC,2025-08-24 20:13:44
+366,desc what are the current immigration laws in us \?,DESC,DESC,2025-08-24 20:13:45
+367,def what is the chemiosmotic theory \?,DESC,DESC,2025-08-24 20:13:46
+368,def what is false consciousness \?,DESC,DESC,2025-08-24 20:13:47
+369,desc what is the orgin of xoxoxox \?,DESC,DESC,2025-08-24 20:13:47
+370,def what is artificial intelligence \?,DESC,DESC,2025-08-24 20:13:48
+371,manner how is a hydrogen bomb different from a nuclear bomb \?,DESC,DESC,2025-08-24 20:13:49
+372,def what is hydroelectricity \?,DESC,DESC,2025-08-24 20:13:50
+373,reason how come light bulbs go out \?,DESC,DESC,2025-08-24 20:13:51
+374,def what is the vdrl test of blood \?,DESC,DESC,2025-08-24 20:13:51
+375,def what are maid rites \?,DESC,DESC,2025-08-24 20:13:52
+376,desc what is the difference between jazz and blues \?,DESC,DESC,2025-08-24 20:13:53
+377,desc what was the infamous feat of germany 's u 2 submarine \?,DESC,DESC,2025-08-24 20:13:53
+378,manner how does james bond like his martinis \?,DESC,DESC,2025-08-24 20:13:54
+379,def what is a handheld pc \?,DESC,DESC,2025-08-24 20:13:55
+380,reason why doesn 't www answers com have any answers to my questions \?,DESC,DESC,2025-08-24 20:13:55
+381,other what type of hunting are retrievers used for \?,ENTY,HUM,2025-08-24 20:13:56
+382,"sport in what sport are these following numbers relevant 118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 \?",ENTY,NUM,2025-08-24 20:13:57
+383,dismed what is a fear of food \?,ENTY,ENTY,2025-08-24 20:13:58
+384,animal what was the name of betty boop 's dog \?,ENTY,ENTY,2025-08-24 20:13:59
+385,cremat what was the name of the sitcom that alyssa milano starred in with tony danza \?,ENTY,ENTY,2025-08-24 20:13:59
+386,cremat what are the most albums sold by one artist or band \?,ENTY,ENTY,2025-08-24 20:14:00
+387,termeq what does final four refer to in the sports world \?,ENTY,ENTY,2025-08-24 20:14:01
+388,techmeth what is the best way to remove wallpaper \?,ENTY,DESC,2025-08-24 20:14:02
+389,veh what ship did lloyd m bucher command \?,ENTY,ENTY,2025-08-24 20:14:03
+390,color what colors need to be mixed to get the color pink \?,ENTY,DESC,2025-08-24 20:14:03
+391,cremat what is the music used in the new vw beetle commercial where the car spins and changes colors \?,ENTY,ENTY,2025-08-24 20:14:04
+392,event what war did florence nightingale tend the troops in \?,ENTY,ENTY,2025-08-24 20:14:05
+393,other what can one see in reims \?,ENTY,LOC,2025-08-24 20:14:06
+394,food what after dinner treat was invented in 1916 at the george jung noodle factory in los angeles \?,ENTY,ENTY,2025-08-24 20:14:07
+395,animal what 's the only mammal that can 't jump \?,ENTY,ENTY,2025-08-24 20:14:08
+396,dismed what is foot and mouth disease \?,ENTY,DESC,2025-08-24 20:14:08
+397,animal what is california 's state bird \?,ENTY,ENTY,2025-08-24 20:14:09
+398,animal what is a female rabbit called \?,ENTY,HUM,2025-08-24 20:14:10
+399,termeq what is the name of the art of growing miniature trees \?,ENTY,ENTY,2025-08-24 20:14:11
+400,animal winnie the pooh is what kind of animal \?,ENTY,ENTY,2025-08-24 20:14:11
+401,food what is the active ingredient in baking soda \?,ENTY,ENTY,2025-08-24 20:14:12
+402,color what color is yak milk \?,ENTY,DESC,2025-08-24 20:14:13
+403,plant what kind of flowers does detective nero wolfe raise \?,ENTY,HUM,2025-08-24 20:14:14
+404,other which gender has bigger thighs \?,ENTY,HUM,2025-08-24 20:14:15
+405,techmeth what is the best way to overcome a fear \?,ENTY,DESC,2025-08-24 20:14:16
+406,sport what 's the most popular four player game of all time \?,ENTY,ENTY,2025-08-24 20:14:17
+407,food what beer is ` rockin ' america \? '',ENTY,ENTY,2025-08-24 20:14:17
+408,other what trade did the 15th and 16th century portuguese hope to control between asia and europe \?,ENTY,LOC,2025-08-24 20:14:18
+409,animal what is the name of the family circus 's dog \?,ENTY,ENTY,2025-08-24 20:14:19
+410,termeq what is the term for the sum of all genetic material in a given organism \?,ENTY,ENTY,2025-08-24 20:14:20
+411,"animal what animal received royal assent as an emblem of canada on march 24 , 1975 \?",ENTY,ENTY,2025-08-24 20:14:20
+412,other what must be exceeded to produce a sonic boom \?,ENTY,NUM,2025-08-24 20:14:21
+413,"animal what creature is the absolute fastest in moving in the world , birds , mammals , etc , \?",ENTY,ENTY,2025-08-24 20:14:22
+414,other what 's the second most used murder weapon in the u s \?,ENTY,ENTY,2025-08-24 20:14:22
+415,food what soft drink is most heavily caffeinated \?,ENTY,ENTY,2025-08-24 20:14:23
+416,cremat what 's the u s navy hymn \?,ENTY,ENTY,2025-08-24 20:14:24
+417,other what is the legal blood alcohol limit for the state of california \?,ENTY,NUM,2025-08-24 20:14:24
+418,event what started in 1849 when gold was discovered at sutter 's mill \?,ENTY,ENTY,2025-08-24 20:14:25
+419,veh what two vessels fought the first sea battle between iron covered ships \?,ENTY,ENTY,2025-08-24 20:14:26
+420,dismed what is a fear of failure \?,ENTY,ENTY,2025-08-24 20:14:27
+421,substance what is a golf ball made of \?,ENTY,ENTY,2025-08-24 20:14:27
+422,veh what is the name of william penn 's ship \?,ENTY,ENTY,2025-08-24 20:14:28
+423,other what kind of science is cosmology \?,ENTY,DESC,2025-08-24 20:14:29
+424,"veh what was the name of the american ship sunk by a mine in havana harbor , causing the spanish american war \?",ENTY,ENTY,2025-08-24 20:14:29
+425,instru musician ray charles plays what instrument \?,ENTY,ENTY,2025-08-24 20:14:30
+426,termeq what are the spots on dominoes called \?,ENTY,ENTY,2025-08-24 20:14:31
+427,product what is the best brand for a laptop computer \?,ENTY,ENTY,2025-08-24 20:14:31
+428,food what do chefs call the master spice \?,ENTY,ENTY,2025-08-24 20:14:32
+429,animal what horse did zorro ride \?,ENTY,ENTY,2025-08-24 20:14:33
+430,cremat what software offers inventors use of cad like design \?,ENTY,ENTY,2025-08-24 20:14:34
+431,cremat what william styron book is about a black preacher who leads a slave revolt \?,ENTY,ENTY,2025-08-24 20:14:34
+432,veh name the vessel used by the atari force in the dc comics,ENTY,ENTY,2025-08-24 20:14:35
+433,cremat name four comic strips about pilots,ENTY,ENTY,2025-08-24 20:14:36
+434,dismed what is a fear of reptiles \?,ENTY,ENTY,2025-08-24 20:14:37
+435,cremat what peter blatty novel recounts the horrors of regan macneil 's possession by the devil \?,ENTY,ENTY,2025-08-24 20:14:38
+436,"termeq what then derogatory term was applied to the painters monet , sisley , pissarro , renoir and degas \?",ENTY,ENTY,2025-08-24 20:14:39
+437,other what has to be produced in a writ of habeas corpus \?,ENTY,ENTY,2025-08-24 20:14:39
+438,other what is the electronic device used to produce visual displays corresponding to electric signals \?,ENTY,ENTY,2025-08-24 20:14:40
+439,"other what dropped 1 , 313 feet in 1980 \?",ENTY,NUM,2025-08-24 20:14:41
+440,techmeth what are the five basic swimming strokes \?,ENTY,DESC,2025-08-24 20:14:42
+441,religion in what religion was isis the nature goddess \?,ENTY,HUM,2025-08-24 20:14:43
+442,cremat what 1956 grace metalious novel was on the best seller list for two years \?,ENTY,ENTY,2025-08-24 20:14:43
+443,"other what did british companies stick 175 , 0 tons of tea into in 1982 \?",ENTY,ENTY,2025-08-24 20:14:44
+444,termeq what 's a `` drinker respirator '' better known as \?,ENTY,ABBR,2025-08-24 20:14:46
+445,cremat what tv show did john sebastian sing the theme for \?,ENTY,ENTY,2025-08-24 20:14:46
+446,other what 's the highest hand in straight poker \?,ENTY,ENTY,2025-08-24 20:14:47
+447,product what product did robert conrad dare people to knock off his shoulder \?,ENTY,ENTY,2025-08-24 20:14:48
+448,dismed what is a fear of strong light \?,ENTY,ENTY,2025-08-24 20:14:49
+449,symbol what playing card symbolizes death \?,ENTY,ENTY,2025-08-24 20:14:50
+450,substance what birthstone is turquoise \?,ENTY,ENTY,2025-08-24 20:14:50
+451,"sport what kind of sports did they play in the years 1642 1649 , the english civil war time \?",ENTY,DESC,2025-08-24 20:14:51
+452,techmeth what is the correct way to use `` may '' vs `` might '' \?,ENTY,DESC,2025-08-24 20:14:52
+453,other what do goldfish lose if kept in dimly lit or running water \?,ENTY,DESC,2025-08-24 20:14:53
+454,word what is the plural of gulf \?,ENTY,NUM,2025-08-24 20:14:54
+455,termeq what do you call a professional map drawer \?,ENTY,ENTY,2025-08-24 20:14:54
+456,dismed what is a fear of food \?,ENTY,ENTY,2025-08-24 20:14:55
+457,cremat what nevil shute novel is about the doomed survivors of a nuclear war \?,ENTY,ENTY,2025-08-24 20:14:56
+458,"animal in hemingway 's `` old man and the sea , '' what kind of fish does the old man catch \?",ENTY,ENTY,2025-08-24 20:14:57
+459,"event what happened on january 15 , 1969 \?",ENTY,ENTY,2025-08-24 20:14:58
+460,techmeth what measures did clinton take to avoid the draft \?,ENTY,error,2025-08-24 20:14:59
+461,cremat what film was based on the play everybody comes to rick 's \?,ENTY,ENTY,2025-08-24 20:15:00
+462,symbol what is the trademark of a washington redskin 's fan \?,ENTY,ABBR,2025-08-24 20:15:01
+463,product what car was driven in the 199 release of `` smokey and the bandit '' \?,ENTY,ENTY,2025-08-24 20:15:01
+464,religion what religion has the most members \?,ENTY,HUM,2025-08-24 20:15:02
+465,dismed what is the name of the medical condition in which a baby is born without a brain \?,ENTY,ENTY,2025-08-24 20:15:03
+466,techmeth what is the procedure called for drilling a hole in your skull to acheive a higher consciousness \?,ENTY,DESC,2025-08-24 20:15:04
+467,dismed what is a fear of children \?,ENTY,ENTY,2025-08-24 20:15:04
+468,cremat what tv series changed the names to protect the innocent \?,ENTY,ENTY,2025-08-24 20:15:05
+469,termeq what 's the international lawn tennis challenge trophy usually called \?,ENTY,ABBR,2025-08-24 20:15:05
+470,food what do flatfish eat \?,ENTY,ENTY,2025-08-24 20:15:06
+471,dismed what is a fear of everything \?,ENTY,ENTY,2025-08-24 20:15:07
+472,animal name a tiger that is extinct,ENTY,ENTY,2025-08-24 20:15:08
+473,animal what animal has the best hearing \?,ENTY,ENTY,2025-08-24 20:15:08
+474,product which operating system runs on ibm compatible machines \?,ENTY,ENTY,2025-08-24 20:15:09
+475,cremat what mary tyler moore show regular came into the world as tadeus wladyslaw konopka \?,ENTY,HUM,2025-08-24 20:15:10
+476,body where does your hair grow the fastest \?,ENTY,HUM,2025-08-24 20:15:11
+477,"substance what molecules include fluorine , sodium and magnesium \?",ENTY,ENTY,2025-08-24 20:15:12
+478,dismed what is a fear of going to bed \?,ENTY,ENTY,2025-08-24 20:15:12
+479,substance what is the second hardest substance \?,ENTY,ENTY,2025-08-24 20:15:13
+480,other what does the statue of liberty wear on her feet \?,ENTY,DESC,2025-08-24 20:15:14
+481,techmeth in what ways did ivan iv support russian expansion \?,ENTY,DESC,2025-08-24 20:15:15
+482,cremat what 1927 silent film received an international revival in 1981 \?,ENTY,ENTY,2025-08-24 20:15:15
+483,veh what was the name of captain bligh 's ship \?,ENTY,ENTY,2025-08-24 20:15:16
+484,dismed what is a fear of punishment \?,ENTY,ENTY,2025-08-24 20:15:17
+485,lang what is one of the languages spoken by the sioux called \?,ENTY,HUM,2025-08-24 20:15:17
+486,plant what is the most widely cultivated plant \?,ENTY,ENTY,2025-08-24 20:15:18
+487,symbol what is the chemical symbol for nitrogen \?,ENTY,ABBR,2025-08-24 20:15:19
+488,termeq what 's the name of the tokyo stock exchange \?,ENTY,ENTY,2025-08-24 20:15:19
+489,color what color of dry wine should be served with veal roasts and chops \?,ENTY,DESC,2025-08-24 20:15:20
+490,sport garry kasparov plays what game \?,ENTY,HUM,2025-08-24 20:15:21
+491,substance what is the heaviest naturally occurring element \?,ENTY,ENTY,2025-08-24 20:15:22
+492,cremat what film featured a snarly character named kid shelleen \?,ENTY,ENTY,2025-08-24 20:15:23
+493,"cremat what was the non fiction best seller of 1952 , 1953 and 1954 \?",ENTY,ENTY,2025-08-24 20:15:23
+494,exp what is hdlc \?,ABBR,ABBR,2025-08-24 20:15:24
+495,abb what is the abbreviated expression for the national bureau of investigation \?,ABBR,ABBR,2025-08-24 20:15:25
+496,exp what does iq stand for \?,ABBR,ABBR,2025-08-24 20:15:26
+497,exp what is ram in the computer \?,ABBR,ABBR,2025-08-24 20:15:26
+498,abb what is the abbreviation for texas \?,ABBR,ABBR,2025-08-24 20:15:27
+499,exp what does nn o `` mean when used as a prefix in irish surnames \?,ABBR,ABBR,2025-08-24 20:15:28
+500,exp what does the `` c '' stand for in the equation e mc2 \?,ABBR,ABBR,2025-08-24 20:15:29
+501,exp what does lol mean \?,ABBR,ABBR,2025-08-24 20:15:29

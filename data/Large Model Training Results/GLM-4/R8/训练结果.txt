@@ -1,0 +1,7 @@
+D:\Anaconda3\python.exe F:\our_gcnn\our_gcnn\data\glm-4-flash训练结果.py 
+模型准确率: 0.5905
+F1 (macro): 0.5480
+F1 (micro): 0.5905
+F1 (weighted): 0.6544
+
+Process finished with exit code 0
